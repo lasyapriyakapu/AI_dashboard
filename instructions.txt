@@ -1,0 +1,54 @@
+TITANIC AI DASHBOARD - INSTRUCTIONS
+
+Project Name:
+Titanic AI Dashboard
+
+Description:
+This project is an interactive data analytics dashboard built using Streamlit, Pandas, and Plotly. The dashboard performs data cleaning, displays key performance indicators (KPIs), and provides interactive visualizations for exploring the Titanic dataset.
+
+Files Required:
+
+1. app.py
+2. requirements.txt
+3. README.md
+
+Installation Steps:
+
+1. Open a terminal or command prompt.
+
+2. Install the required libraries:
+   pip install -r requirements.txt
+
+3. Run the Streamlit application:
+   streamlit run app.py
+
+4. The dashboard will automatically open in your default web browser.
+
+Dashboard Features:
+
+* Dataset Overview
+* Data Cleaning Summary
+* KPI Metrics
+* Gender Filter
+* Passenger Class Filter
+* Survival Distribution Analysis
+* Gender Distribution Analysis
+* Age Distribution Analysis
+* Survival Rate by Passenger Class
+* Fare Distribution Analysis
+
+Technologies Used:
+
+* Python
+* Streamlit
+* Pandas
+* Plotly Express
+
+Dataset Source:
+https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+
+Expected Output:
+An interactive web dashboard displaying Titanic passenger insights through charts, filters, and summary statistics.
+
+Author:
+Lasya Priya Kapu
